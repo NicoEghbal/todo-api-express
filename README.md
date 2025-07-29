@@ -12,7 +12,7 @@ A simple and evolving Todo application backend built with Express.js.
 ## Getting Started
 
 ```bash
-git clone https://github.com/NicoEghbal/todo-api-express
+git clone https://github.com/NicoEghbal/todo-api-express.git
 cd todo-app
 npm install
 npm run dev  # or node index.js
